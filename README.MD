@@ -1,0 +1,1 @@
+This is a single page mockup of Apple iTune's landing page using HTML, CSS and jquery for the navigation bar.
