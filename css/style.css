@@ -17,7 +17,7 @@ body {
   background-color: #252529;
   color: white;
   margin: 0;
-  line-he: 1.6;
+  line-height: 1.6;
 }
 
 img
@@ -179,7 +179,7 @@ a
 
 .btn-primary:hover
 {
-  backgroun: var(--primary-color-hover);
+  background: var(--primary-color-hover);
 }
 
 .btn-secondary
@@ -189,7 +189,7 @@ a
 
 .btn-secondary:hover
 {
-  backgroun: var(--secondary-color-hover);
+  background: var(--secondary-color-hover);
 }
 
 .mb
